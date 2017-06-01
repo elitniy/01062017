@@ -1,0 +1,24 @@
+Operator konkret riyazi v? ya m?ntiqi manipulyasiya yerin? yetirm?y? kompilyatoru gost?r?n simvoldur.
+operatorlar 3 novu var.
+riyazi
+m?ntiqi
+s?rti
+
+Komputer proqramlar? genis riyazi hesablamalar ucun istifad? olunur.
+riyazi operatorlar +,-,*,/ misal ucun siza iki r?q?min riyazi hesablamanin n?tic?sini qaytar?r.qaytard?g? n.tic. is? 
+m?lumatlar?n novl?rind?n as?ll?d?r. m?s?sl?n : 9/4  9v?4-un novu "int"-dir.H?mcinin, fikir vermelisizki n?tic? 
+istifad? olunan m?lumat tipi ucun quvv?d? olan d?y?rl?rin h?ddini kecm?sin.
+
+m?ntiqi d?y?rl?rl? ?m?liyyatlar parmaq ucun m?ntiqi operatorlar movcuddur  | (V? Ya), & & (V?) |-d?r v?! (YOX)
+M?ntiqi V? Ya ?m?liyyat iki bitl?ri (a v? b) yerin? yetirilir.
+?g?r a v? b 0  olduqda "V? Ya" ?m?liyyat n?tic?sind? 0 olacaq v? butun dig?r hallarda n?tic? 1--d?r.
+
+
+m?ntiq operatorlar h?r bir dild? cox vacib olan operatorlardir.
+onlar biz? mu?yyn s?raitd? ?saslanan q?rarlar? q?bub etm?kd? kom?k edirl?r.
+m?s?l?n biz iki s?raitin n?tic?sini birl?udirm?k ist?yirik.biz? V? v? YA m?ntiqi
+ operatorlar son n?tic?ni almaq ucun biz? kom?k edirl?r.
+
+
+
+

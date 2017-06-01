@@ -1,0 +1,19 @@
+
+d?yis?n - hansisa tip m?lumt?arin saxlanma yerinin adidir.
+d?yis?n "var" acar sonen yarad?l?r onnan sonda d?yis?nin adi tipi sonra is? mu?yy?n edilmis d?y?rini.
+
+m?s?l?n:
+var x string
+x = "Hello World"
+
+Daxili strukturuna gore, d?yis?nl?r sad? v? ya mur?kk?b olur.
+
+Sad? d?yis?nl?rin daxili strukturu yoxdur.
+kompilyator v? ya prosessor ucun d?yis?n n? q?d?r s?tin olsada 
+xususi proqramlasd?rma sistemi programlasd?rma dili  proqramc?lardan onun daxili strukturu gizl?dir,
+yaln?z butovlikl? istifad? etmayi imkan verir.
+
+mur?kk?b d?yis?nl?rin is daxili strukturu olur.mur?kk?b d?yis?nl?ri is? programc? m?lumatlar? 
+saxlamaq ucun yarad?r.mur?kk?b d?yis?nl?rin her bir elemetnin? murac?y?t oluna bil?r.
+Mur?kk?b tipl?rinin ?n xarakterik numun?l?ri massiv v? record.
+massiv-d? butun elementler eyni tipd? olur record-da is? elementler muxt?lif cur ola bil?r.
